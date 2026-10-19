@@ -1,0 +1,6 @@
+{
+  "name": "SYNC DROP - Web3 Campaign & Airdrop Radar",
+  "description": "Real-time Web3 campaign, airdrop, bounty and NFT deadline tracking platform with multi-user progress tracking and admin campaign deployment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
